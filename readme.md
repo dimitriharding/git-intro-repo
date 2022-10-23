@@ -1,0 +1,1 @@
+I learned about git, classes and other javascript topics
